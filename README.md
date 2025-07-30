@@ -7,7 +7,7 @@ The objective of this task is to **predict the next day’s closing stock price*
 
 ---
 
-## 📂ataset Used
+## Dataset Used
 
 - **Source:** [Yahoo Finance](https://finance.yahoo.com/)
 - **Ticker:** `TSLA` (Tesla Inc.)
